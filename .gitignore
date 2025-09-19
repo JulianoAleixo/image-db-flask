@@ -1,0 +1,12 @@
+# Arquivos de ambiente
+.env
+serviceAccountKey.json
+
+# Virtualenv
+venv/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
