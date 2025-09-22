@@ -79,11 +79,11 @@ http://127.0.0.1:5000
 `POST /images`
 
 - Tipo de Body: form-data
-- Chave: `image` (tipo arquivo)
+- Chave: `file` (tipo arquivo)
 - A API converte a imagem em Base64 e salva no Firestore.
 
 Exemplo no Postman:
-- Key: image
+- Key: file
 - Value: selecione um arquivo .jpg ou .png
 
 ---
